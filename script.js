@@ -1,13 +1,13 @@
 const messages = [
     "Are you sure?",
     "i mean really really sure??",
-    "Are you positive?",
     "asa ni kr na",
     "Preety please...",
+    "thoda v pasand ni krti meko???",
     "suar h kya? maan ja na",
     "asa mna kregi meko?",
     "pls na😗",
-    "bss bhot hogya 😑😑",
+    "bss bhot hogya ab too yha tk agaii sli 😑😑",
     "Ok fine, bhaddd m jaa...",
     "Just kidding, say yes please! hehe 😅"
     
